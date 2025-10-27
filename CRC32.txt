@@ -1,0 +1,5 @@
+CRC32 de MegamanX:
+
+1033EBA4 Original Mega Man X (U) (V1.0) [!].smc
+6A1B6926 Original Rockman X (Japan)
+DED53C64 Original Mega Man X (USA) (Rev 1)
